@@ -1,1 +1,1 @@
-console.loh("hello")
+const pair = "extraordinaire";
